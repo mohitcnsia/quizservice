@@ -29,3 +29,12 @@ replay_pid*
 *.gradle
 *.bin
 
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/modules/quizservice.main.iml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
